@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel (@bmanos)
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning too many stuffs
-- 💞️ I’m looking to collaborate on ... I am listening to any suggestions
+- 💞️ I’m looking to collaborate on ...  I'm open to any suggestions.
 - 📫 How to reach me ig:@manosbee
 
 <!---
