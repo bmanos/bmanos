@@ -10,6 +10,7 @@ Multi-site networks · Cybersecurity · Windows/Linux · Virtualization · In-ho
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sonam.dev-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonam.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelbairaktaris/)
+[![Instagram](https://img.shields.io/badge/Instagram-@bmanos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmanos)
 
 </div>
 
@@ -26,7 +27,7 @@ What I bring is a rare **T-shape**: deep enough across infrastructure, networkin
 - 🧩 Open to **Head of IT / IT Manager, Infrastructure Lead, Network Engineer, Cybersecurity Engineer, or Full-Stack Developer** roles
 - 🌍 Remote (worldwide), remote within Greece/EU, hybrid or on-site in Greece — open to relocation for the right role
 - 🗣️ Languages: **Greek** (native), **English**, **French**
-- ⏱️ Comfortable in high-availability environments — used to after hours incidents, and used to preventing them
+- ⏱️ Comfortable in high-availability environments — used to after-hours incidents, and used to preventing them
 
 ---
 
@@ -88,6 +89,7 @@ A Python tool that converts DICOM (`.dcm`) medical imaging files into PNG images
 
 - 🌐 **Portfolio:** [sonam.dev](https://sonam.dev)
 - 💼 **LinkedIn:** [emmanuelbairaktaris](https://www.linkedin.com/in/emmanuelbairaktaris/)
+- 📸 **Instagram:** [@bmanos](https://www.instagram.com/bmanos)
 
 <div align="center">
 <br>
