@@ -88,7 +88,7 @@ A Python tool that converts DICOM (`.dcm`) medical imaging files into PNG images
 ## 🤝 Let's Connect
 
 - 🌐 **Portfolio:** [sonam.dev](https://sonam.dev)
-- 💼 **LinkedIn:** [emmanuelbairaktaris](https://www.linkedin.com/in/emmanuelbairaktaris/)
+- 💼 **LinkedIn:** [emmanuelbairaktaris](https://www.linkedin.com/in/emmanuel-bairaktaris/)
 - 📸 **Instagram:** [@bmanos](https://www.instagram.com/bmanos)
 
 <div align="center">
