@@ -9,8 +9,8 @@ Multi-site networks · Cybersecurity · Windows/Linux · Virtualization · In-ho
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sonam.dev-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonam.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelbairaktaris/)
-[![Instagram](https://img.shields.io/badge/Instagram-@bmanos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmanos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-bairaktaris/)
+[![Instagram](https://img.shields.io/badge/Instagram-@manosbee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manosbee)
 
 </div>
 
@@ -89,7 +89,7 @@ A Python tool that converts DICOM (`.dcm`) medical imaging files into PNG images
 
 - 🌐 **Portfolio:** [sonam.dev](https://sonam.dev)
 - 💼 **LinkedIn:** [emmanuelbairaktaris](https://www.linkedin.com/in/emmanuel-bairaktaris/)
-- 📸 **Instagram:** [@bmanos](https://www.instagram.com/bmanos)
+- 📸 **Instagram:** [@bmanos](https://www.instagram.com/manosbee)
 
 <div align="center">
 <br>
